@@ -1,0 +1,7 @@
+[settings]
+lockfile = true
+
+[tools]
+bun = "1.4.3"
+"aqua:numtide/treefmt" = "2.6.0"
+yamlfmt = "0.21.0"

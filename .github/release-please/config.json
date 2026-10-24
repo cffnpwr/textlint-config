@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "release-type": "node",
+  "pull-request-title-pattern": "chore(release): bump to v${version}",
+  "include-component-in-tag": false,
+  "include-v-in-tag": true,
+  "draft": true,
+  "packages": {
+    ".": {
+      "initial-version": "1.0.0",
+      "extra-files": [
+        {
+          "type": "json",
+          "path": "jsr.json",
+          "jsonpath": "$.version"
+        }
+      ]
+    }
+  }
+}
