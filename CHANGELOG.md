@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/cffnpwr/textlint-config/compare/v1.0.0...v1.1.0) (2026-10-24)
+
+
+### Features
+
+* :sparkles: prh.ymlにルールを追加 ([#5](https://github.com/cffnpwr/textlint-config/issues/5)) ([932d15d](https://github.com/cffnpwr/textlint-config/commit/932d15d439e122843eaad851c611373e83dad395))
+
 ## 1.0.0 (2026-10-24)
 
 
