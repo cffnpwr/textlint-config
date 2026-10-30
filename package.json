@@ -29,7 +29,7 @@
     "lint": "textlint --config .textlintrc.json README-ja.md"
   },
   "dependencies": {
-    "@cffnpwr/textlint-rule-preset-ja-writing-extras": "1.1.1",
+    "@cffnpwr/textlint-rule-preset-ja-writing-extras": "1.1.2",
     "@textlint-ja/textlint-rule-no-dropping-i": "3.0.0",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "2.0.1",
     "@textlint-ja/textlint-rule-no-insert-re": "1.0.2",
