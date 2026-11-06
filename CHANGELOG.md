@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/cffnpwr/textlint-config/compare/v1.1.0...v1.1.1) (2026-11-06)
+
+
+### Bug Fixes
+
+* **deps:** :package: update dependency @cffnpwr/textlint-rule-preset-ja-writing-extras to v1.1.2 ([#8](https://github.com/cffnpwr/textlint-config/issues/8)) ([4b86814](https://github.com/cffnpwr/textlint-config/commit/4b86814afdd83146e91bce31bd277091cef8eb93))
+
 ## [1.1.0](https://github.com/cffnpwr/textlint-config/compare/v1.0.0...v1.1.0) (2026-10-24)
 
 
