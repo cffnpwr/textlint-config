@@ -10,7 +10,7 @@
         "@textlint-ja/textlint-rule-no-insert-dropping-sa": "2.0.2",
         "@textlint-ja/textlint-rule-no-insert-re": "1.0.3",
         "@textlint-ja/textlint-rule-no-synonyms": "1.3.0",
-        "@textlint-ja/textlint-rule-preset-ai-writing": "1.7.1",
+        "@textlint-ja/textlint-rule-preset-ai-writing": "1.7.2",
         "sudachi-synonyms-dictionary": "20.0.1",
         "textlint-plugin-latex2e": "1.2.1",
         "textlint-rule-ja-no-orthographic-variants": "2.0.3",
@@ -90,7 +90,7 @@
 
     "@textlint-ja/textlint-rule-no-synonyms": ["@textlint-ja/textlint-rule-no-synonyms@1.3.0", "", { "dependencies": { "textlint-rule-helper": "^2.1.1", "tiny-segmenter": "^0.2.0" }, "peerDependencies": { "sudachi-synonyms-dictionary": ">=4.0.1" } }, "sha512-mOB85gFGnSx6LgoUdCQFyATjcfsi0UaWO8Q4EBna/cq+ZGlmg2vcDGozk1hNLhX8u1PMzZDxDwrQOqx1zW+42w=="],
 
-    "@textlint-ja/textlint-rule-preset-ai-writing": ["@textlint-ja/textlint-rule-preset-ai-writing@1.7.1", "", { "dependencies": { "@textlint/regexp-string-matcher": "^2.0.2", "kuromojin": "^3.1.0", "textlint-util-to-string": "^3.3.6" } }, "sha512-UvONK9ABap9Qsa72O6ciQ26EKy1HIwZ//MNpBN2ejivl4A7cyfc8EtMlv01m2UplaeybHpPCR9BGi3bL8yRQ/A=="],
+    "@textlint-ja/textlint-rule-preset-ai-writing": ["@textlint-ja/textlint-rule-preset-ai-writing@1.7.2", "", { "dependencies": { "@textlint/regexp-string-matcher": "^2.0.2", "kuromojin": "^3.1.0", "textlint-util-to-string": "^3.3.6" } }, "sha512-Fac3wKhbX5ZptCA6FQXTuaApBr8ZbiR1HYOEZ/ybagINm2cYasjsfLZeywx7fLtptHpRaSzfLQfCyrdg929aBA=="],
 
     "@textlint-rule/textlint-rule-no-invalid-control-character": ["@textlint-rule/textlint-rule-no-invalid-control-character@3.0.0", "", {}, "sha512-2o9n4z49ntSPtJPlcJtxakyB4dAg2MKSvR9ZCZEHjye0ee27oWYzK6yHz2HjsXQqt9VeCwxNHDOIGIx2CQX0Dw=="],
 
